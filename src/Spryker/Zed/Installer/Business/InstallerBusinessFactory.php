@@ -15,7 +15,7 @@ use Spryker\Zed\Installer\InstallerDependencyProvider;
 /**
  * @method InstallerConfig getConfig()
  */
-class InstallerDependencyContainer extends AbstractBusinessFactory
+class InstallerBusinessFactory extends AbstractBusinessFactory
 {
 
     /**
